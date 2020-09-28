@@ -1,0 +1,9 @@
+<img src="https://sites.google.com/site/mate02trucha/_/rsrc/1472875957853/config/google_.jpg" alt="Google Logo" width="300" height="200"class="center">
+<h2>Search the web using Google</h2>
+<form action="/action_page.php">
+  <label for="search">Search :</label>
+  <input type="text" id="text1" name="search"><br><br>
+<button type="button1">Google Search</button>
+  <button type="button">I'm Feeling Lucky</button>
+  <a href="www.google.com">More Google!</a>
+  <p>Copyright ©1999 Google Inc.</p>
